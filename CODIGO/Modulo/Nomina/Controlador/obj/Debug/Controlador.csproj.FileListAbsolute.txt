@@ -1,0 +1,6 @@
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\bin\Debug\Controlador.dll
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\bin\Debug\Controlador.pdb
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\obj\Debug\Controlador.dll
+D:\cSharp\FINAL\CODIGO\Modulo\Hoteleria\Controlador\obj\Debug\Controlador.pdb
